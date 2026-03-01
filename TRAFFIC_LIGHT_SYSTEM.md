@@ -4,6 +4,17 @@
 
 ---
 
+## Table of Contents
+
+1. [Green Light — Production Ready](#-green-light---ready-for-production)
+2. [Yellow Light — Proceed with Caution](#-yellow-light---proceed-with-caution)
+3. [Red Light — Do Not Use in Production](#-red-light---do-not-use-in-production)
+4. [Blue Light — Archived/Deprecated](#-blue-light---archiveddeprecated)
+5. [Implementation](#implementation)
+6. [Quick Reference](#quick-reference)
+
+---
+
 ## 🟢 GREEN LIGHT - READY FOR PRODUCTION
 
 **Meaning:** Fully tested, documented, and ready for production deployment.

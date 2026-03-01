@@ -2,6 +2,17 @@
 
 Welcome to the BlackRoad Foundation! This guide helps you get started as a community contributor.
 
+## Table of Contents
+
+1. [Who We Are](#who-we-are)
+2. [Ways to Contribute](#ways-to-contribute)
+3. [Getting Started](#getting-started)
+4. [Programs](#programs)
+5. [Code of Conduct](#code-of-conduct)
+6. [Contact](#contact)
+
+---
+
 ## Who We Are
 
 BlackRoad Foundation supports open development practices, community projects, and the BlackRoad OS ecosystem.
