@@ -1,5 +1,13 @@
 # BlackRoad Foundation Events
 
+## Table of Contents
+
+1. [Recurring Events](#recurring)
+2. [Upcoming Events](#upcoming)
+3. [Past Events](#past-events)
+
+---
+
 ## Recurring
 - **Every Monday**: Community standup (Discord, 9am PT)
 - **First Friday**: Open office hours with core team

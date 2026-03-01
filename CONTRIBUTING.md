@@ -1,5 +1,15 @@
 # Contributing to BlackRoad OS
 
+## Table of Contents
+
+1. [Proprietary Notice](#proprietary-notice)
+2. [BlackRoad Brand System](#blackroad-brand-system)
+3. [How to Contribute](#how-to-contribute)
+4. [Legal](#legal)
+5. [Contact](#contact)
+
+---
+
 ## 🔒 Proprietary Notice
 
 This is a **PROPRIETARY** repository owned by BlackRoad OS, Inc.
