@@ -1,3 +1,11 @@
+# community
+
+> Community guidelines and engagement tools
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Foundation](https://github.com/BlackRoad-Foundation)
+
+---
+
 # BlackRoad Community Hub
 
 Welcome to the BlackRoad OS community! Here you'll find resources for
